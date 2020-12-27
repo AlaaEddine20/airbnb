@@ -1,5 +1,5 @@
-import { Button } from "react-bootstrap";
 import React from "react";
+import { Button, Image } from "react-bootstrap";
 import "./Banner.css";
 
 function Banner() {
